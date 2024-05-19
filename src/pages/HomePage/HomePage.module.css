@@ -1,0 +1,10 @@
+.homePageContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+    color: rgb(60, 30, 197);
+    font-size: 50px;
+    font-weight: 600;
+}

@@ -1,0 +1,26 @@
+.userMenuContainer {
+    display: flex;
+    gap: 10px;
+}
+
+.user {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(12, 12, 14);
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.button {
+    background-color: rgb(44, 218, 160);
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    height: 30px;
+    font-weight: 700;    
+}
+
+.button:hover {
+    background-color: aquamarine;
+}
